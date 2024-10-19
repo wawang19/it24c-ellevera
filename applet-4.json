@@ -28,12 +28,15 @@
         "student_name": "Jame Ryan",
         "student_program": "BS - Information Technology",
         "student_enrolled_date": "2023-02-28"
-      }
+      },
       {
+        
         "student_id": 20211436,
         "student_name": "Ezra Pauleen",
         "student_program": "BS - Information Technology",
         "student_enrolled_date": "2021-10-14"
       }
+      
+      
   ]
   
